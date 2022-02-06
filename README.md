@@ -1,4 +1,4 @@
-# Braile periodic table for Korean
+# Braille periodic table for Korean
 
 점자 주기율표입니다.
 
@@ -9,3 +9,5 @@
 대한화학회의 표준 주기율표를 바탕으로 제작했습니다.
 
 자유로운 이용 및 변형이 가능합니다.
+
+![Braille periodic table](https://user-images.githubusercontent.com/71208448/152667983-9376ee38-d23c-46ad-b538-2322c70d3f47.png)
