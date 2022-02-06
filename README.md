@@ -1,4 +1,4 @@
-# -Braile periodic table for Korean
+# Braile periodic table for Korean
 
 점자 주기율표입니다.
 
